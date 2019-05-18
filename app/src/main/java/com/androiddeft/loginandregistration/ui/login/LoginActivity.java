@@ -29,7 +29,7 @@ public class LoginActivity extends AppCompatActivity {
     private String username;
     private String password;
     private ProgressDialog pDialog;
-    private String login_url = "http://192.168.199.123:80/member/db/login.php";
+    private String login_url = "http://garyhu.51vip.biz:29133/db/login.php";
     private SessionHandler session;
 
     @Override
